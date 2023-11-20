@@ -1,2 +1,6 @@
-# Elegoo_Neptune_4_Plus
-Printer Settings
+# Elegoo Neptune 4 Plus
+
+## Printer & Slicer Settings
+
+### Slicers
+* __Orca__
