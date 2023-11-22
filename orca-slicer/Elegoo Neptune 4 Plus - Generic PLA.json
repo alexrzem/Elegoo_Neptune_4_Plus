@@ -195,8 +195,8 @@
     "hot_plate_temp_initial_layer": [
         "60"
     ],
-    "inherits": "Elegoo Neptune 4 Plus - Generic PLA",
-    "name": "Elegoo Neptune 4 Plus - eSUN PLA",
+    "inherits": "My Generic PLA",
+    "name": "Elegoo Neptune 4 Plus - Generic PLA",
     "nozzle_temperature": [
         "220"
     ],
